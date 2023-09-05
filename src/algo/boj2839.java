@@ -1,3 +1,4 @@
+package algo;
 import java.util.*;
 
 public class boj2839 {

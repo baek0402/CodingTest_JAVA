@@ -1,6 +1,7 @@
+package algo;
+
 import java.util.*;
 import java.io.*;
-
 
 //boj10610 : 30
 public class boj10610 {
